@@ -1,5 +1,0 @@
-Credentials cache: API:1741
-        Principal: aybouras@1337.MA
-
-		  Issued                Expires               Principal
-		  Jan  8 20:06:16 2019  Jan  9 20:06:16 2019  krbtgt/1337.MA@1337.MA

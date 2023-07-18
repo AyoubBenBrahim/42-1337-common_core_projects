@@ -3,14 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: aybouras <aybouras@student.1337.ma>        +#+  +:+       +#+         #
+#    By: ayb***** <ayb*****@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/12/05 14:34:47 by aybouras          #+#    #+#              #
-#    Updated: 2019/12/09 15:17:46 by aybouras         ###   ########.fr        #
+#    Created: 2019/12/05 14:34:47 by ayb*****          #+#    #+#              #
+#    Updated: 2019/12/09 15:17:46 by ayb*****         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME	=	aybouras.filler
+NAME	=	ayb*****.filler
 
 CFLAGS	=	-Werror -Wextra -Wall
 
